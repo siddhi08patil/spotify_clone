@@ -1,0 +1,21 @@
+.logo{
+    border-radius: 50%;
+    background-image: url(download.png);
+    height: 250px;
+    width: 250px;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+button{height: 45px;
+    width:75px;
+    border: 1px solid white;
+    color: rgb(156, 157, 159);
+    background-color: black;
+    margin-left: 580px;
+    border-radius: 25%;
+}
+h5{
+    color:rgb(156, 157, 159) ;
+    margin-left: 600px;
+}
